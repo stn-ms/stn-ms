@@ -12,3 +12,6 @@
 <a href="https://github.com/Kitzunu">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stn-ms&layout=donut&theme=github_dark" />
 </a>
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
+![Pinned](./profile/pin-readme-tools-github-readme-stats.svg)
